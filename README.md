@@ -29,7 +29,7 @@ a server program managed by the instructor.
 
 ## About the name
   
-NSA here stands for Not Safe Application. Use it at your own risk. If you use it you will be exposing data bout your work about about your computer. So, unless you know what you are doing, do not use it.
+NSA here stands for Not Safe Application. Use it at your own risk. If you use it you will be exposing data about your work and your computer. So, unless you know what you are doing, do not use it.
 
 If you want to use it (really, think twice!)
 it works with Python 2.7 and Python 3.x. Windows, OSX, and Linux.
@@ -47,3 +47,7 @@ Will post to
     http://www.example.com/nsa/default/post
 
 There is a variable SECRET which will be passed along with the other POSTed variables and it can be used by the SERVER to filter out spam (posts with invalid SECRET).
+
+## And the server?
+
+I have it but I have not posted it yet.  
