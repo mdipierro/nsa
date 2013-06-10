@@ -158,7 +158,7 @@ if filename:
             sys.stderr = Writer(sys.stderr)
             if WARNING: 
                 print("WARNING!!!")
-                print("the helpme module sendd your code")
+                print("the nsa module sends your code")
                 print("and a screenshot to %s" % SERVER)
                 print("="*60)
             if VERBOSE: 
