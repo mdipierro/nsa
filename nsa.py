@@ -1,7 +1,7 @@
 """
 ## About
 
-Import this module in any Pyhton program (import nsa)
+Import this module in any Python program (import nsa)
 and upon execution, it will report to our server a copy of
 the program, its traceback, global variables, and a 
 screenshot of your computer.
