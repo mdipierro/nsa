@@ -20,7 +20,7 @@ Instead of
 
 Students can do
 
-    python nsa.py test,py
+    python nsa.py test.py
 
 or simply "import nsa" in their code.
      
