@@ -3,7 +3,7 @@
 
 Import this module in any Python program (import nsa)
 and upon execution, it will report to our server a copy of
-the program, its traceback, global variables, and a 
+the program, its output and traceback, global variables, and a 
 screenshot of your computer.
 
 If you are a good programmer, you have nothing to hide!
